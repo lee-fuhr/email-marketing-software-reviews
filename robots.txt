@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://emailplatformreviews.com/sitemap.xml
